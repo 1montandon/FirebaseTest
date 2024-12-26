@@ -1,35 +1,18 @@
-# firebasetest
+## FirebaseTest - Firestore Learning Project
 
-This template should help get you started developing with Vue 3 in Vite.
+Este projeto foi criado com o objetivo de explorar e aprender a utilização do **Firestore Database**, uma solução de banco de dados fornecida pelo Firebase. Através deste repositório, são demonstrados conceitos fundamentais e funcionalidades essenciais do Firestore, incluindo:
 
-## Recommended IDE Setup
+### Recursos / Objetivos:
+O **FirebaseTest** não se trata de um produto final, mas de uma aplicação educacional desenvolvida para:
+- Configuração e integração do Firestore em um projeto.
+- Criação, leitura, atualização e exclusão (CRUD) de documentos.
+- Escuta em tempo real para atualizações no banco de dados.
+- Aprender como utilizar o Firestore em conjunto com tecnologias front-end e back-end.
+- Compreender os princípios básicos do Firestore Database.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+### Tecnologias Utilizadas:
+- **Firebase Firestore**
+- **Vuejs 3**
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+### Notas:
+- Este projeto é destinado apenas para aprendizado e pode não seguir todas as melhores práticas de desenvolvimento.
